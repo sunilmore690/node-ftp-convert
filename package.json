@@ -1,0 +1,21 @@
+{
+  "name": "ftpconvert",
+  "version": "1.0.0",
+  "description": "Ftp Convert ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "convert",
+    "ftp"
+  ],
+  "author": "Sunil More",
+  "license": "ISC",
+  "dependencies": {
+    "csvtojson": "^1.1.9",
+    "exceljs": "^0.8.1",
+    "ftp": "^0.3.10",
+    "jsonfile": "^4.0.0"
+  }
+}
